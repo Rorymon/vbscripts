@@ -6,7 +6,6 @@
 ' NAME: cleanexcel.vbs
 '
 ' AUTHOR: KuTools
-' AMENDED: Russell Hill , HP
 ' DATE  : August 23rd, 2016
 '
 ' USAGE: Run as Excel VBA using Alt+F11 and navigating to Import > Module
